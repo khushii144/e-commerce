@@ -85,6 +85,8 @@ const Category = () => {
         </div>
 
         {/* Products Section */}
+
+        
         <div className="md:col-span-3">
           {/* Sort Dropdown */}
           <div className="flex justify-end mb-4">
